@@ -1,9 +1,9 @@
 #第一步
 
-
-
 export QUIC_GO_DISABLE_ECN=true
+
 sysctl -w net.core.rmem_max=2500000
+
 sysctl -w net.core.wmem_max=2500000
 
 
