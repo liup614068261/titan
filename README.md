@@ -20,4 +20,4 @@ wget -O duokai.sh https://raw.githubusercontent.com/liup614068261/titan/main/duo
 #第三步 防止titan 服务器 空间不一致问题
 
 
-wget -O setstorage.sh https://github.com/liup614068261/titan/blob/main/setstorage.sh && chmod +x setstorage.sh && ./setstorage.sh
+wget -O setstorage.sh https://raw.githubusercontent.com/liup614068261/titan/main/setstorage.sh && chmod +x setstorage.sh && ./setstorage.sh
